@@ -1,3 +1,8 @@
+.article-name{
+  width: 100%;
+  margin-top: 100px;
+}
+
 body {
   background: #000;
   min-height: 100vh;
@@ -64,7 +69,7 @@ body {
   flex-direction: column;
   gap: 80px;
   justify-content: start;
-  padding: 100px;
+  padding: 50px;
 }
 
 .friends__container {
@@ -184,6 +189,7 @@ body {
   font-family: Inter;
   font-style: normal;
   gap: 48px;
+  
 }
 
 .section__title {
