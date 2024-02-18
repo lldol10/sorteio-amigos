@@ -1,7 +1,9 @@
 .article-name{
   width: 100%;
-  margin-top: 100px;
-  background-color: red;
+  overflow: overlay;
+  height: 200px;
+  
+
 }
 
 body {
@@ -68,7 +70,7 @@ body {
 .content__main {
   display: flex;
   flex-direction: column;
-  gap: 80px;
+  gap: 30px;
   justify-content: start;
   padding: 50px;
 }
